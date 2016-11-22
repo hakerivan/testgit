@@ -1,9 +1,11 @@
-Git is a version control system.
-Git is free software.
-
-Git is a distributed version control system.
-Git is free software.
-
-1、路遥知马力，日久见人心
+项目初始化 npm init
+ name:scms
+ version: 1.0.0
+ description: cms system
+ entry point: bin/www
+ test command:
+ git repository:
+ keywords: cms
+ author:ivan
 
 npm install -g express
